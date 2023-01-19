@@ -13,4 +13,4 @@ Intros:
 
 -Exams: There are three subfolders in this folder, each one has assignment_reviews, questions and solutions.
 
--Sources: Meterials of this cource are in this folder.
+-Sources: Meterials of this course are in this folder.
