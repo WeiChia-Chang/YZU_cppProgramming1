@@ -1,4 +1,3 @@
-```cpp
 // Polynomial division provided that the quotient and remainder have integer coefficients
 
 #include <iostream>
@@ -320,4 +319,3 @@ void division(int dividend[], int divisor[], int quotient[], int remainder[],
     if (remainderDegree != 0 && remainder[remainderDegree] == 0)
         cout << "Leading coefficient of remainder cannot be zero!\n";
 }
-```
