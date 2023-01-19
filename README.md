@@ -5,7 +5,7 @@ Course Name: 程式設計（一） / Computer Programming(I)
 
 Teacher: 林基成 / Ji-Cherng Lin
 
-Time: 2022F(1111), 15:00~17:00 Mon. and 14:00~16:00 Wed.
+Time: 2022F(1111), 15:00-17:00 Mon. and 14:00-16:00 Wed.
 
 Intros:
 
