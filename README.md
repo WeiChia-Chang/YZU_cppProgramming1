@@ -11,6 +11,6 @@ Intros:
 
 -Assignments: This folder consists of all (12) assignments (homeworks) in this course.
 
--Exams: There are three subfolders in this folder, each one has questions and solutions.
+-Exams: There are three subfolders in this folder, each one has assignment_reviews, questions and solutions.
 
 -Sources: Meterials of this cource are in this folder.
