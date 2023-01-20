@@ -9,7 +9,7 @@ Time: 2022F(1111), 15:00-17:00 Mon. and 14:00-16:00 Wed.
 
 Intros:
 
-This course teaches us some basic elements of procedural-based c++ programming, including control statement, function, recursion, array, pointer, structure, string and files.
+This course teaches us some basic elements of procedural-based c++ programming, including control statement, function, recursion, array, vectors, pointer, structure, string and files.
 
 Guidelines:
 
