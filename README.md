@@ -1,6 +1,6 @@
 # YZU_cppProgramming1
 ```
-CPP programming class in first semester of freshmen year (2022F/1111)
+CPP programming class in fall semester of freshmen year (2022F/1111)
 ```
 
 ### Course Name:
