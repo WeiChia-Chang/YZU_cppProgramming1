@@ -147,15 +147,15 @@ void extractIdentifiers( string &sourceLine, string *identifiers, int &numIdenti
     string symbols = "#(){}<>[]!&=.%+,;";
     size_t length = sourceLine.size();
     size_t lenSymbols = symbols.size();
-   /*¥H¤Uµ²ªG¬°¥¿½T
+   
     for (int i = 0; i < length; i++) {
         for (int j = 0; j < lenSymbols; j++) {
             if (sourceLine[i] == symbols[j])// && sourceLine[i + 1] != '\0'
                 sourceLine[i] = ' ';
         }
-    }*/
+    }
 
-    /*¥H¤Uµ²ªG·|¥X¿ù*/
+    /*ä»¥ä¸‹çµæžœæœƒå‡ºéŒ¯
     for (int i = 0; i < length; i++) { //if the soureceLine has a character of symbols, set it to space (delimeter)
         for (int j = 0; j < lenSymbols; j++) {
             if (sourceLine[i] == symbols[j] && sourceLine[i + 1] != '\0') {
@@ -166,7 +166,8 @@ void extractIdentifiers( string &sourceLine, string *identifiers, int &numIdenti
             }
         }
     }
-    
+    */
+
     size_t pos = 0;
     string token;
     string delimiter = " ";
