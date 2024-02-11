@@ -6,7 +6,7 @@ CPP programming class in fall semester of freshmen year (2022F/1111)
 ### Course Name:
 - 程式設計（一） / Computer Programming(I)
 
-### Teacher:
+### Professor:
 - 林基成 / Ji-Cherng Lin
 
 ### Time:
