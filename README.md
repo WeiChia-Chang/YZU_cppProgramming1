@@ -21,5 +21,3 @@ CPP programming class in fall semester of freshmen year (2022F/1111)
 - Assignments: This folder consists of all (12) assignments (homeworks) in this course.
 
 - Exams: There are three subfolders in this folder, each one has assignment_reviews, questions and solutions.
-
-- Sources: Meterials of this course are in this folder.
